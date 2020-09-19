@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Whisper Theme</title>
-    <link>https://github.com/rhysecampbell/hugo-whisper/tags/</link>
+    <link>https://rhysecampbell.github.io/hugo-whisper/tags/</link>
     <description>Recent content in Tags on Hugo Whisper Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/rhysecampbell/hugo-whisper/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rhysecampbell.github.io/hugo-whisper/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
